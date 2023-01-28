@@ -1,0 +1,97 @@
+
+.body{
+    box-sizing: border-box;
+} 
+.Bcard{
+    /* background-color: rebeccapurple; */
+    width:317px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    border-radius: 10px;
+    font-family: inter;
+    background-color: #F5F5F5;
+}
+
+.img-container{
+    overflow: hidden;
+
+}
+.img{
+    width:317px;
+    overflow: hidden;
+    border-radius: 10px;
+
+}
+.name{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #2B283A;
+}
+.designation{
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #F47D27;
+}
+.website-link{
+    text-align: center;
+    font-size: 10.2px;
+    font-weight: bold;
+    color: #4A4E74; 
+}
+.outer-area{
+    background-color: #23252C;
+    width: 100%;
+    height :100vh;
+    margin: auto;
+}
+.email-img{
+    width:15px;
+    margin-right: 40px;
+    margin-top: 6px;
+}
+.button{
+    width:247px;
+    height:34px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.email-text{
+    position: relative;
+    top:-20px;
+    left: 10px;
+    font-size: 14px;
+    color: #374151;
+}
+.about,.interests{
+    color:#2B283A;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.about-content,.interets-content{
+    color:#4A4E74;
+    font-size: 10px;
+    margin-left: 35px;
+    margin-right: 29px;
+    margin-top: 5px;
+
+}
+.footer{
+    height: 64px;
+    color: #D5D4D8;
+    background-color: #D5D4D8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 10px;
+    margin-top: 40px;
+
+}
