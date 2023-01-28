@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vbv-shm/BussinessCard/static/css/main.4c511e71.css",
-    "main.js": "/vbv-shm/BussinessCard/static/js/main.9e0c33ba.js",
-    "static/media/Vaibhav.jpg": "/vbv-shm/BussinessCard/static/media/Vaibhav.b1144f07c089f2ad728e.jpg",
-    "static/media/mail.png": "/vbv-shm/BussinessCard/static/media/mail.a8df4638190bd6b7b9b5.png",
-    "index.html": "/vbv-shm/BussinessCard/index.html",
-    "main.4c511e71.css.map": "/vbv-shm/BussinessCard/static/css/main.4c511e71.css.map",
-    "main.9e0c33ba.js.map": "/vbv-shm/BussinessCard/static/js/main.9e0c33ba.js.map"
+    "main.css": "/BussinessCard/static/css/main.4c511e71.css",
+    "main.js": "/BussinessCard/static/js/main.c949b5ba.js",
+    "static/media/Vaibhav.jpg": "/BussinessCard/static/media/Vaibhav.b1144f07c089f2ad728e.jpg",
+    "static/media/mail.png": "/BussinessCard/static/media/mail.a8df4638190bd6b7b9b5.png",
+    "index.html": "/BussinessCard/index.html",
+    "main.4c511e71.css.map": "/BussinessCard/static/css/main.4c511e71.css.map",
+    "main.c949b5ba.js.map": "/BussinessCard/static/js/main.c949b5ba.js.map"
   },
   "entrypoints": [
     "static/css/main.4c511e71.css",
-    "static/js/main.9e0c33ba.js"
+    "static/js/main.c949b5ba.js"
   ]
 }
